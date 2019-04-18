@@ -1,0 +1,18 @@
+{
+  "name": "jsonapiauth",
+  "version": "1.0.0",
+  "description": "JWT api authentication",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
